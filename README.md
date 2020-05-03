@@ -7,7 +7,7 @@ Contains a nice home screen setup along with widget rice and wallpaper... A sub-
 1. Nova Launcher (Prime)
 2. KWGT (Pro)
 3. Flight Icon Pack
-4. Muviz (for equalizer near navbar)
+4. Muviz (for visualizer near navbar)
 5. CalendarProvider (some custom ROMs or skinned phones lack it)
 And other general purpose apps as shown in the images. You may change the icon, app shortcut and name from KWGT itself as per your choice if you choose not to use that particular app/action.
 
